@@ -21,17 +21,38 @@ namespace exercici_restaurant
             int[] preus = new int[numplats];
 
             //fase 2
-            for (int i= 0; i < numplats; i++)
+            for (int i = 0; i < numplats; i++)
+
             {
-                Console.WriteLine("Quin plat vols {0}", i + 1);
+
+                Console.WriteLine("Introdueix el nom del plat {0}:", i + 1);
+
                 menu[i] = Console.ReadLine();
-                Console.WriteLine("Introdueix el preu del plat {0} {1});", i + 1, menu[1]);
+
+                Console.WriteLine("Introdueix el preu del plat {0} ({1}):", i + 1, menu[i]);
+
                 preus[i] = Convert.ToInt32(Console.ReadLine());
+
                 Console.Clear();
+
+                Console.WriteLine("---EXERCICI RESTAURANT---");
+
+                Console.WriteLine("");
+
             }
+
             Dictionary<string, int> openWith = new Dictionary<string, int>();
-            for (int i = 0; i < numplats; i++) ;
-            
+
+            for (int i = 0; i < numplats; i++)
+
+            {
+
+                openWith.Add(menu[i], preus[i]);
+
+            }
+
+            Console.Clear();
+
         }
     }
 }
