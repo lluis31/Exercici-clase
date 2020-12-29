@@ -1,0 +1,12 @@
+/Users/lluisplanasmastel/Desktop/Git/Exercici-clase/exercici-restaurant/obj/Debug/netcoreapp3.1/exercici-restaurant.csprojAssemblyReference.cache
+/Users/lluisplanasmastel/Desktop/Git/Exercici-clase/exercici-restaurant/obj/Debug/netcoreapp3.1/exercici-restaurant.AssemblyInfoInputs.cache
+/Users/lluisplanasmastel/Desktop/Git/Exercici-clase/exercici-restaurant/obj/Debug/netcoreapp3.1/exercici-restaurant.AssemblyInfo.cs
+/Users/lluisplanasmastel/Desktop/Git/Exercici-clase/exercici-restaurant/obj/Debug/netcoreapp3.1/exercici-restaurant.csproj.CoreCompileInputs.cache
+/Users/lluisplanasmastel/Desktop/Git/Exercici-clase/exercici-restaurant/bin/Debug/netcoreapp3.1/exercici-restaurant.deps.json
+/Users/lluisplanasmastel/Desktop/Git/Exercici-clase/exercici-restaurant/bin/Debug/netcoreapp3.1/exercici-restaurant.runtimeconfig.json
+/Users/lluisplanasmastel/Desktop/Git/Exercici-clase/exercici-restaurant/bin/Debug/netcoreapp3.1/exercici-restaurant.runtimeconfig.dev.json
+/Users/lluisplanasmastel/Desktop/Git/Exercici-clase/exercici-restaurant/bin/Debug/netcoreapp3.1/exercici-restaurant.dll
+/Users/lluisplanasmastel/Desktop/Git/Exercici-clase/exercici-restaurant/bin/Debug/netcoreapp3.1/exercici-restaurant.pdb
+/Users/lluisplanasmastel/Desktop/Git/Exercici-clase/exercici-restaurant/obj/Debug/netcoreapp3.1/exercici-restaurant.dll
+/Users/lluisplanasmastel/Desktop/Git/Exercici-clase/exercici-restaurant/obj/Debug/netcoreapp3.1/exercici-restaurant.pdb
+/Users/lluisplanasmastel/Desktop/Git/Exercici-clase/exercici-restaurant/obj/Debug/netcoreapp3.1/exercici-restaurant.genruntimeconfig.cache
